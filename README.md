@@ -1,6 +1,6 @@
 # Customer & Revenue Analytics — MySQL · Tableau
 
-**Tools:** MySQL · MySQL Workbench · Tableau · SQL  
+**Tools:** MySQL Workbench · Tableau 
 **Domain:** Retail Analytics · Customer Segmentation · Revenue Intelligence  
 **Data:** Sakila DVD Rental Database (16,000+ customers, 600+ films, 2 stores)
 
